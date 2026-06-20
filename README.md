@@ -1,9 +1,5 @@
 # ChinnarTuber
 
-<p align="center">
-  <img src="ChinnarTuber/Assets/app-icon.png" alt="ChinnarTuber" width="96" />
-</p>
-
 <h1 align="center">ChinnarTuber</h1>
 
 <p align="center">
