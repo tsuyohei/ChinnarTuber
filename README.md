@@ -1,4 +1,6 @@
-# ChinnarTuber
+<p align="center">
+  <img src="ChinnarTuber/Assets/app-icon.png" alt="ChinnarTuber" width="96" />
+</p>
 
 <h1 align="center">ChinnarTuber</h1>
 
@@ -16,9 +18,9 @@
 
 ---
 
-A lightweight browser dedicated to watching YouTube. Built on **Microsoft Edge WebView2**, ChinnarTuber adds always-on-top, bottom-right snap, multi-window playback, ad blocking, and other features tuned for everyday viewing.
+A lightweight browser dedicated to watching YouTube. Built on **Microsoft Edge WebView2**, ChinnarTuber adds always-on-top, bottom-right snap, ad blocking, and other features tuned for everyday viewing.
 
-YouTube 視聴に特化した軽量ブラウザです。WebView2 をベースに、常に前面表示・右下スナップ・複数ウィンドウ・広告ブロックなど、視聴体験を補う機能を備えています。
+YouTube 視聴に特化した軽量ブラウザです。WebView2 をベースに、常に前面表示・右下スナップ・広告ブロックなど、視聴体験を補う機能を備えています。
 
 ## Download
 
@@ -41,8 +43,8 @@ Get the latest build from **[Releases](../../releases)**.
 |---------|-------------|
 | **Always on top** | Keep the window above other apps (`Ctrl+T`) |
 | **Bottom-right snap** | PiP-style 640×360 window in the corner (`Ctrl+R`) |
+| **Fullscreen** | Fill the screen (`F11`, `Esc` to exit). Respects toolbar pin setting |
 | **Ad blocking** | AdGuard extension when available; built-in filter as fallback |
-| **Multiple windows** | Other windows pause automatically when you switch |
 | **Auto-hide toolbar** | Pin the toolbar or reveal it by moving the mouse to the top edge |
 | **YouTube-only navigation** | Address bar accepts YouTube-related URLs only (`youtube.com`, `youtu.be`, etc.) |
 | **Keyboard shortcuts** | Browser-style shortcuts for navigation and window control |
@@ -66,13 +68,13 @@ Get the latest build from **[Releases](../../releases)**.
 | `Alt+←` / `Alt+→` | Back / Forward |
 | `F5` | Reload |
 | `Alt+Home` | YouTube Home |
-| `Ctrl+N` | New window |
 | `Ctrl+W` / `Ctrl+F4` | Close window |
 | `Ctrl+T` | Toggle always on top |
 | `Ctrl+R` | Toggle bottom-right snap |
+| `F11` | Toggle fullscreen |
 | `Ctrl+L` / `F6` | Focus address bar |
 | `Enter` | Navigate to address bar URL |
-| `Esc` | Focus page |
+| `Esc` | Focus page (exits fullscreen while in fullscreen mode) |
 | `Ctrl+Shift+T` | Toggle toolbar pin |
 | `Ctrl+Shift+A` | Toggle ad blocker |
 | `Ctrl+Shift+L` | Toggle language |
