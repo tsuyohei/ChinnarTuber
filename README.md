@@ -1,26 +1,33 @@
-<p align="center">
-  <img src="ChinnarTuber/Assets/app-icon.png" alt="ChinnarTuber" width="96" />
-</p>
-
 <h1 align="center">ChinnarTuber</h1>
 
 <p align="center">
-  <strong>YouTube-only browser for Windows</strong><br/>
-  Windows 向け YouTube 専用ブラウザ
+  <strong>Ultra-lightweight YouTube player for Windows</strong><br/>
+  <strong>About 50 MB RAM</strong> &mdash; watch YouTube without a heavy browser<br/>
+  超軽量 YouTube プレイヤー &mdash; メモリ約 50MB で YouTube を視聴
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/RAM-About%2050MB-2ea44f" alt="RAM About 50MB" />
+  <img src="https://img.shields.io/badge/Download-1.8MB-2ea44f" alt="Download 1.8MB" />
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
   <img src="https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white" alt=".NET 8" />
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D4?logo=windows&logoColor=white" alt="Windows 10/11" />
-  <img src="https://img.shields.io/badge/Version-1.0.0-informational" alt="Version 1.0.0" />
 </p>
 
 ---
 
-A lightweight browser dedicated to watching YouTube. Built on **Microsoft Edge WebView2**, ChinnarTuber adds always-on-top, bottom-right snap, ad blocking, and other features tuned for everyday viewing.
+**ChinnarTuber uses about 50 MB of RAM** — a fraction of what Chrome or Edge consumes for a single YouTube tab. Built on Microsoft Edge WebView2, it gives you a dedicated YouTube window with always-on-top, PiP snap, ad blocking, and more, without the overhead of a full browser.
 
-YouTube 視聴に特化した軽量ブラウザです。WebView2 をベースに、常に前面表示・右下スナップ・広告ブロックなど、視聴体験を補う機能を備えています。
+**ChinnarTuber のメモリ使用量はわずか約 50MB。** Chrome や Edge で YouTube タブを1つ開くだけで 300〜500MB 消費するのに対し、圧倒的に軽量です。WebView2 をベースに、常に前面表示・PiP 風スナップ・広告ブロック等を備えた専用プレイヤーです。
+
+### Why ChinnarTuber?
+
+| | Chrome / Edge | ChinnarTuber |
+|---|---|---|
+| **RAM usage** | 300 - 500 MB per tab | **About 50 MB** |
+| **Download size** | 200 - 300 MB | **1.8 MB** |
+| **Startup** | Heavy (loads entire browser) | Instant |
+| **Purpose** | General browsing | YouTube only, optimized |
 
 ## Download
 
